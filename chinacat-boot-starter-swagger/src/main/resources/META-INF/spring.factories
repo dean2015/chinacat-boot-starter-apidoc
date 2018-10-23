@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.chinacat.boot.starter.swagger.config.property.SwaggerInfoProperties,\
+com.chinacat.boot.starter.swagger.config.property.SwaggerSecurityProperties,\
+com.chinacat.boot.starter.swagger.config.SwaggerConfig
